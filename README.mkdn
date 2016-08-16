@@ -4,7 +4,7 @@ MojitoRom
 Getting Started
 ---------------
 
-To initialize your local repository using the CyanogenMod trees, use a command like this:
+To initialize your local repository using the MojitoRom trees, use a command like this:
 
     repo init -u git://github.com/MojitoRom/android.git -b cm-13.0
 
